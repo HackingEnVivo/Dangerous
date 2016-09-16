@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/eu1iqot.png" title="Dangerous">
+<img src="http://i.imgur.com/eFApCw6.png" title="Dangerous">
 
 # Bienvenid@s
 
