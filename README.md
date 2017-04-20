@@ -12,5 +12,4 @@ Tener Instalado la Version 2.7 de Python
 
 # Instrucciones:
 
-Esta heramienta, es una Fusión de muchas herramientas de Hacking.
-Para fines educativos.
+Esta heramienta, esta programada en Python para tumbar servidores web en cuestion de segundos.
